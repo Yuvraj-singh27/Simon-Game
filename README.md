@@ -25,4 +25,4 @@ The Simon game is classic  memory game where players must repeat a sequence of c
 
 
 
-# Good luck, and have fun testing your memory!
+# Good luck, and have fun testing your memory and Explore!
